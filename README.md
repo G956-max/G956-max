@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Gopinath 👋
 
-<!--
-**G956-max/G956-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Developer
 
-Here are some ideas to get you started:
+I'm passionate about building practical AI and Machine Learning
+solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 AI & Machine Learning Developer
+- 🐍 Python Developer
+- 📊 Data Science & Data Analysis
+- 🧠 Generative AI & LLM Applications
+- 🏥 Interested in AI-powered Healthcare Solutions
+- 🔧 Building real-world end-to-end projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+Python | Java | SQL
+
+### AI / Machine Learning
+Machine Learning | Deep Learning | NLP | Generative AI
+
+### Data Science
+NumPy | Pandas | Matplotlib | Scikit-learn
+
+### AI Tools & Technologies
+LLMs | Prompt Engineering | Computer Vision | RAG
+
+### Development
+Git | GitHub | REST APIs | Docker
+
+---
+
+## 🔥 Featured Projects
+
+### 🏥 MediQR — AI Healthcare Assistant
+AI-powered healthcare platform combining medical information,
+document/image understanding and intelligent assistance.
+
+**Tech:** Python | AI/ML | LLM | Computer Vision | Cloud
+
+### 🌿 Iris Species Classification
+Machine Learning project using Decision Tree classification
+to predict Iris flower species.
+
+**Tech:** Python | Scikit-learn | Machine Learning
+
+### 💳 Loan Prediction System
+Machine Learning model for predicting loan approval based on
+financial and applicant-related features.
+
+**Tech:** Python | Pandas | Scikit-learn
+
+---
+
+## 📈 What I'm Currently Learning
+
+- Generative AI
+- Large Language Models
+- Computer Vision
+- MLOps
+- AI Application Development
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN)
