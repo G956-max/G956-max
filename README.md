@@ -71,4 +71,4 @@ financial and applicant-related features.
 
 ## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/gopinath-k-3649233b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
